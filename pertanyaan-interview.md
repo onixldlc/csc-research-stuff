@@ -43,5 +43,5 @@
   
 <BIG-RED-NOTE = "inget disini kita mencoba untuk memprobe seberapa jauh mereka mau mencoba, apakah cuma sampe google search sekali atau bahkan langsung gave up setelah di kasih satu soal gitu jadi klo misal nya di soal koding ke dua atau ke tiga mereka belum sadar bisa google kasih tau ke mereka google boleh kok, dan jangan takut salah"> 
  
-<note-untuk-pertanyaan-code-nya = "dari code code itu kan ada tingkatan dari easy ke medium usahain tanyain dulu di awal mereka comfortable nya pake bahasa apa js,cpp, atau py klo mereka gk yakin kasih yg py dan klo udah 2 kali mereka gk dapet kasih yg easy semua aja"
+<note-untuk-pertanyaan-code-nya = "dari code code itu kan ada tingkatan dari easy ke medium usahain tanyain dulu di awal mereka comfortable nya pake bahasa apa js,cpp, atau py klo mereka gk yakin kasih yg py dan klo udah 1 atau 2 kali mereka gk dapet kasih yg easy semua aja, tapi kalau mereka dapet jawaban nya... tingkatin dificulty nya dan inget disini kita bukan nyari ilmu mereka kita cuma mau tau seberapa mau mereka menggugel atau nanya ke kita kita"
 ```
