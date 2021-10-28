@@ -1,4 +1,13 @@
 # jadwal research
+|tgl     |jam          |
+|:------:|:-----------:|
+|1       |14:00 - 18:00|
+|3       |14:00 - 16:00|
+
+
+
+
+# semua jadwal research
 
 sementara hanya segini karena masih ada yg belum jawab
 
@@ -22,11 +31,6 @@ legend:
   xx:xx   tolong isiin kalian bisa nya ampe jam berapa biar bisa ngira ngira
 ```
 
-# yang research pilih
-|tgl     |jam          |
-|:------:|:-----------:|
-|1       |14:00 - 18:00|
-|3       |14:00 - 16:00|
 
 note: 
  - tgl 8 gk bisa karena udh di booking divisi lain
