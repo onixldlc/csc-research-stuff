@@ -16,8 +16,9 @@ sementara hanya segini karena masih ada yg belum jawab
 |9      |-      |-      |-      |-      |-      |-      |19:00  |20:00  |**     |**     |❌        |       |       |
 |10     |-      |-      |-      |-      |-      |-      |14:00  |16:00  |**     |**     |❌        |       |       |
 
-
+```
 legend:
   **      arti nya masih harus nanya ke orang nya lagi
   -       arti nya udah gk bisa di ganggu gugat hari itu gk bisa
   xx:xx   tolong isiin kalian bisa nya ampe jam berapa biar bisa ngira ngira
+```
