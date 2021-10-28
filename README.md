@@ -6,7 +6,7 @@
 
 total jam kita: 6 jam <br />
 total interviewer: 5 orang <br />
-perkiraan lama interview (worse case): 30 menit
+perkiraan lama interview (worse case ini data dapet dari batch 1): 30 menit
  
 6 jam * 5 orang = 30 jam <br />
 30 jam * 60 menit = 1800 menit <br />
