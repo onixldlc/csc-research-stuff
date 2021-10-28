@@ -25,5 +25,8 @@ legend:
 # yang research pilih
 |tgl     |jam          |
 |:------:|:-----------:|
-|1       |14:00 - 17:00|
+|1       |14:00 - 18:00|
 |3       |14:00 - 16:00|
+
+note: 
+ - tgl 8 gk bisa karena udh di booking divisi lain
