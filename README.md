@@ -5,6 +5,7 @@
 |3       |14:00 - 16:00|
 
 total jam kita: 6 jam <br />
+total interviewer: 5 orang <br />
 perkiraan lama interview (worse case): 30 menit
  
 6 jam * 5 orang = 30 jam <br />
