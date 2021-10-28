@@ -4,8 +4,16 @@
 |1       |14:00 - 18:00|
 |3       |14:00 - 16:00|
 
+total jam kita: 6 jam
+perkiraan lama interview (worse case): 30 menit
+ 
+6 jam * 5 orang = 30 jam
+30 jam * 60 menit = 1800 menit
+1800 menit / 30 menit = 60 orang 
 
-
+6 jam * 4 orang = 24 jam
+24 jam * 60 menit = 1440 menit
+1440 menit / 30 menit = 48 orang
 
 # semua jadwal research
 
