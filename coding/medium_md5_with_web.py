@@ -4,7 +4,7 @@ import base64
 def whatDoesThisDo(text):
 	res = requests.get(((base64.b64decode("aHR0cHM6Ly9tZDVjYWxjLmNvbS9oYXNoL21kNS8=")).decode('ascii'))+str(text))
 	pos = res.text.find("&quot;</h1>")
-	return res[pos-32:pos]
+	return res.text[pos-32:pos]
 
 print(whatDoesThisDo(1))
 
